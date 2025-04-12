@@ -1,8 +1,8 @@
-﻿
-﻿Console.Clear();
-Console.WriteLine("o que é o que é...");
-Thread.Sleep(3000);
-Console.WriteLine("o que o peixe faz?...");
-Thread.Sleep(3000);
-Console.WriteLine("nada");
-Thread.Sleep(3000);
+﻿﻿Console.Clear();
+string nomedigitado;
+string nomeleet;
+Console.WriteLine();
+nomedigitado= Console.ReadLine() ! ;
+nomeleet = nomedigitado.Replace("R","L").
+                        Replace("r","l") ;
+Console.WriteLine($" {nomeleet}!");
