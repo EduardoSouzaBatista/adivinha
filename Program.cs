@@ -1,4 +1,5 @@
-﻿﻿Console.Clear();
+﻿
+﻿Console.Clear();
 string nomedigitado;
 string nomeleet;
 Console.WriteLine();
